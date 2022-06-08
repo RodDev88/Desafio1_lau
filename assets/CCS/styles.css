@@ -1,0 +1,31 @@
+body {
+    color:grey; 
+    background-color: white;
+    }
+
+p { font-size:20px;
+}
+.BIG {
+
+font-size: 50px;
+}
+#even-bigger {
+
+font-size: 40px;
+}
+
+.skill {
+
+color: green;
+}
+
+.skill2 {
+
+color: rgb(38, 0, 128);
+}
+
+.border{
+    margin: 10px;
+    padding: 20px;
+    border: solidcolor 25px rgb(218, 27, 27);
+}
